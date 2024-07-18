@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* cor de fundo suave */
+    color: #333; /* cor do texto */
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.btn-primary {
+    background-color: green;
+}
+
+section {
+    margin: 40px;
+}
+
+.row {
+    justify-content: center;
+    gap: 20px;
+    }
+
